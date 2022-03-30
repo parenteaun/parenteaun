@@ -1,5 +1,8 @@
 Description: 
 
+Starting Ecosia Search Count: 219
+Ending Ecosia Search Count:
+Estimated Trees Planted:
 
 Below is a log of events for the day: 
 - Created new Gmail to segregate climate activism from other interests
@@ -8,6 +11,7 @@ Below is a log of events for the day:
 - Installed GitHub Desktop
 - Decided to contribute to first public repo: Project Drawdown (https://github.com/ProjectDrawdown/solutions)
 - Reviewed Contributing.md and Testing.md
+- Checked out the Project Drawdown.org website and the Climate 101 Solutions Youtube series (https://www.youtube.com/playlist?list=PLwYnpej4pQF7sB5_ZmS2IjFae5M7MafiF)
 - Forked the solutions repo
 - Cloned the fork in GitHub Desktop
 - Updated Sublime Text 3 (my sublime text is already setup for building python with the build Hotkey [Ctrl+B]) 
@@ -16,3 +20,7 @@ Below is a log of events for the day:
 - Installed (via pip) openpyxl, pytest, tools, pathlib, argparse, wheel
 - Need to Resolve: Received errors while trying to install following packages: model, tools.util, yaml 
 - 1 Error resolved: The package yaml is now pyyaml. Packages with "Import yaml" statements work fine with pyyaml (https://stackoverflow.com/questions/14261614/how-do-i-install-the-yaml-package-for-python)
+- 1 error resolved, new error found: The package models is now pymodels. Installing pymodels errors out (guess: dependency)
+- Filled out the NDA pre-form found in Contributing.md
+- Replied to my first "Good First Issue" tag (https://github.com/ProjectDrawdown/solutions/issues/366)
+- Submitted my first issue "Documentation\Glossary.md" (https://github.com/ProjectDrawdown/solutions/issues/531)
