@@ -1,0 +1,18 @@
+Description: 
+
+
+Below is a log of events for the day: 
+- Created new Gmail to segregate climate activism from other interests
+- Updated GitHub Profile
+- First commit in recent history
+- Installed GitHub Desktop
+- Decided to contribute to first public repo: Project Drawdown (https://github.com/ProjectDrawdown/solutions)
+- Reviewed Contributing.md and Testing.md
+- Forked the solutions repo
+- Cloned the fork in GitHub Desktop
+- Updated Sublime Text 3 (my sublime text is already setup for building python with the build Hotkey [Ctrl+B]) 
+- Went into the solutions\tools\ folder and started opening python packages to search for dependencies I need to edit & build Project Drawdown files
+- Updated pip to install dependent packages
+- Installed (via pip) openpyxl, pytest, tools, pathlib, argparse, wheel
+- Need to Resolve: Received errors while trying to install following packages: model, tools.util, yaml 
+- 1 Error resolved: The package yaml is now pyyaml. Packages with "Import yaml" statements work fine with pyyaml (https://stackoverflow.com/questions/14261614/how-do-i-install-the-yaml-package-for-python)
