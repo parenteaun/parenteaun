@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parenteaun, an IT Professional with Expertise in Document Automation. I am member of the professional organizations DOJ-Pride and oSTEM.
-- 👀 I’m interested in chess, writing and the open-source community.
+- 👀 I’m interested in chess, creative writing, vocal performance and the open-source community.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects related to climate change. 
 - 📫 How to reach me ClimateCodeCrusader@gmail.com
