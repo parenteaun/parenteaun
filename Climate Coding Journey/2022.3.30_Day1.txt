@@ -1,8 +1,8 @@
 Description: 
 
 Starting Ecosia Search Count: 219
-Ending Ecosia Search Count:
-Estimated Trees Planted:
+Ending Ecosia Search Count: 230
+
 
 Below is a log of events for the day: 
 - Created new Gmail to segregate climate activism from other interests
