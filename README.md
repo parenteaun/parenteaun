@@ -2,7 +2,7 @@
 - 👀 I’m interested in chess, creative writing, vocal performance and the open-source community.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects related to climate change. 
-- 📫 How to reach me ClimateCodeCrusader@gmail.com
+- 📫 How to reach me n.a.parenteau@gmail.com
 - Previous work: I've done some work in the past processing and pivoting ERCOT data via CSV VBA and Python for finanical analysis.
 
 <!---
