@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @parenteaun, an IT Professional with Expertise in Document Automation. I am member of the professional organizations DOJ-Pride and oSTEM.
+- 👋 Hi, I’m @parenteaun, an IT Professional with Expertise in Document Automation.
 - 👀 I’m interested in chess, creative writing, vocal performance and the open-source community.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects related to climate change. 
+- 🌱 I’m currently learning python, Godot and generative ai prompt engineering.
 - 📫 How to reach me n.a.parenteau@gmail.com
 - Previous work: I've done some work in the past processing and pivoting ERCOT data via CSV VBA and Python for finanical analysis.
 
